@@ -1,1 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+*{
+    box-sizing: border-box;
+  }
+  html{
+      scroll-behavior: smooth;
+    }
+  #home{
+      background-image: url("./images/h_img.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      position: relative;
+  }
+  #home > p{
+      font-family: 'Open Sans', sans-serif;
+      font-size: 14px;
+  }
