@@ -16,3 +16,11 @@
       font-family: 'Open Sans', sans-serif;
       font-size: 14px;
   }
+  h2{
+    font-family: 'Open Sans', sans-serif;
+}
+.logo{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
