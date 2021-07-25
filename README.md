@@ -1,6 +1,6 @@
 # Delani Studio
 ## Author
-[eliwangila]
+(eliwangila)
 ## Description
 This project is a web application for Delani Studio that shows details about the service they offer, information about delani, portfolio and form that enables clients to send messages to Delani Studio
 ## screenshot
@@ -12,17 +12,19 @@ https://github.com/eliwangila/IP3delani-studio
 
 ## Installation / Setup instruction
 * open terminal
-* git clone
+* git clone g
 * cd delani-studio
 * code .
 ## Technologies Used
 
-* [HTML5]
-* [CSS]
-* [Bootsrap]
-* [jQuery]
+* HTML5
+* CSS
+* Bootsrap
+* jQuery
 
 ## BDD
+|Input your Details|
+ |:-------------|
  |Enter your name|
  |:-------------|
  |Enter your Email|

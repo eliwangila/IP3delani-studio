@@ -6,7 +6,7 @@
       scroll-behavior: smooth;
     }
   #home{
-      background-image: url("../images/h_img.jpg");
+      background-image: url("./images/h_img.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
@@ -28,7 +28,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 #services-section{
-    background-image: url("../images/s_image.jpg");
+    background-image: url("./images/s_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -65,7 +65,7 @@
     padding-top: 50%;
 }
 .contact-us {
-    background-image: url("../images/c_image.jpg");
+    background-image: url("./images/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
