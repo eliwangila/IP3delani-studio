@@ -86,4 +86,15 @@ input[type=text], input[type=email] {
     border: 1px solid #ccc;
     box-sizing: border-box;
   }
+  textarea{
+    border: 1px solid #ccc;
+    width: 80%;
+    background: transparent;
+  }
+  textarea{
+      border-radius: 5px;
+    }
+    textarea::placeholder{
+      color: #ffffff;
+    }
 
