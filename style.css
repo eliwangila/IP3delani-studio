@@ -64,6 +64,12 @@
     font-size: 20px;
     padding-top: 50%;
 }
+.contact-us {
+    background-image: url("./images/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 .form{
     text-align: center;
     font-family: 'Open Sans', sans-serif;
