@@ -8,12 +8,11 @@ This project is a web application for Delani Studio that shows details about the
 <img src="https://raw.githubusercontent.com/eliwangila/IP3delani-studio/master/images/h_img.jpg" width="900px" height="440px">
 
 ## Live Page
-eliwangila.github.io/ip3delani-studio/
-
+https://eliwangila.github.io/ip3delani-studio/
 
 ## Installation / Setup instruction
 * open terminal
-* git clone
+* git clone (paste the copied URL from the repository)
 * cd delani-studio
 * code .
 ## Technologies Used
