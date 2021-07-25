@@ -8,7 +8,7 @@ This project is a web application for Delani Studio that shows details about the
 <img src="https://raw.githubusercontent.com/eliwangila/IP3delani-studio/master/images/h_img.jpg" width="900px" height="440px">
 
 ## Live Page
-https://github.io/eliwangila/ip3delani-studio/
+[View](https://github.io/eliwangila/IP3delani-studio)
 
 ## Installation / Setup instruction
 * open terminal
