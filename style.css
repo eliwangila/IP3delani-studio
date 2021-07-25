@@ -109,4 +109,12 @@ input[type=text], input[type=email] {
     button:hover {
       opacity: 0.8;
     }
+    footer{
+        text-align: center;
+    }
+    footer,img{
+        padding: 5px;
+        padding-top: 10px;
+    }
+    
 
